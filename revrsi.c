@@ -1,7 +1,7 @@
 //Name:patrisia kaplun.
 //Date:25/04/21
 // ID 314631474
-//File name:revrsi02.c
+//File name:revrsi.c
 
 #include<stdio.h>
 
